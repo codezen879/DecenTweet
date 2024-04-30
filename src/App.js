@@ -35,7 +35,7 @@ function App() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LEARN BLOCKCzHAINadsds<u><b>NOW! </b></u>
+                LEARN BLOCKCzHAINasdsds<u><b>NOW! </b></u>
               </a>
             </div>
           </main>
