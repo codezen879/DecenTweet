@@ -35,7 +35,7 @@ function App() {
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LEARN BLOCKCHAIN <u><b>NOW! </b></u>
+                LEARN BLOCKCHAINa <u><b>NOW! </b></u>
               </a>
             </div>
           </main>
